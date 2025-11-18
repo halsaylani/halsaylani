@@ -28,6 +28,6 @@ I’m a software developer based in Saudi Arabia 🇸🇦, passionate about buil
 - LinkedIn: [linkedin.com/in/halsaylani](https://linkedin.com/in/halsaylani)  
 
 ## 💬 Fun Fact
-I’m currently working on a SaaS voice-assistant for small businesses (restaurants, salons, car washes) that uses Twilio + GPT API + Laravel backend.  
+I’m currently working on a voice-assistant for small businesses (restaurants, salons, car washes) that uses Twilio + local LLMs + Laravel backend.  
 I also enjoy exploring AI/ML, especially multilingual systems (Arabic & English) and helping bilingual developers achieve more.
 
