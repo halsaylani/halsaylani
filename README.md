@@ -20,6 +20,9 @@ I’m a software developer based in Saudi Arabia 🇸🇦, passionate about buil
 - DevOps & Server Setup: Ubuntu & CentOS configuration, Nginx setup, PHP version management, SSL, deployments  
 - Languages: Arabic (native), English (fluent)
 
+I also enjoy exploring AI/ML, especially multilingual systems (Arabic & English) and helping bilingual developers achieve more.
+
+
 <h2> 🚀 &nbsp; Tools I Have Used and Learned</h2>
 <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
@@ -34,24 +37,9 @@ I’m a software developer based in Saudi Arabia 🇸🇦, passionate about buil
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/alpinejs/alpinejs-original.svg" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/centos/centos-original.svg" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-original.svg" width="45" height="45"/>
-
-
-
-
-
-
-
-
-
-
 </p>
 
 
 ## 📫 How to Reach Me
 - Email: halsaylani@email.com  
 - LinkedIn: [linkedin.com/in/hussainalsaylani](https://linkedin.com/in/hussainalsaylani)  
-
-## 💬 Fun Fact
-I’m currently working on a voice-assistant for small businesses (restaurants, salons, car washes) that uses Twilio + local LLMs + Laravel backend.  
-I also enjoy exploring AI/ML, especially multilingual systems (Arabic & English) and helping bilingual developers achieve more.
-
