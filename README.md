@@ -20,10 +20,9 @@ I’m a software developer based in Saudi Arabia 🇸🇦, passionate about buil
 - Projects: booking systems, attendance systems, voice-assistant SaaS, RAG/AI chatbots  
 - Languages: Arabic (native), English (fluent)  
 
-*(You can link to 3-5 of your best/most relevant repositories)*
 
 ## 📫 How to Reach Me
-- Email: hals.aylani@example.com  
+- Email: halsaylani@email.com  
 - LinkedIn: [linkedin.com/in/halsaylani](https://linkedin.com/in/halsaylani)  
 
 ## 💬 Fun Fact
