@@ -15,10 +15,12 @@ Welcome to my GitHub profile! 🚀
 I’m a software developer based in Saudi Arabia 🇸🇦, passionate about building full-stack web & mobile applications. I love working with Laravel, Flutter, Swift, and Java Android.
 
 ## 💡 What I Do
-- Backend: PHP / Laravel, MySQL, SQL Server  
-- Frontend: Flutter (iOS/Android), Swift (native iOS), Android (Java)  
-- Projects: booking systems, attendance systems, voice-assistant SaaS, RAG/AI chatbots  
-- Languages: Arabic (native), English (fluent)  
+- Backend Development: PHP / Laravel, MySQL, SQL Server  
+- Frontend Development: Vue.js, Alpine.js, Tailwind CSS  
+- Mobile Development: Flutter (iOS/Android), Swift (iOS), Android (Java/Kotlin)  
+- AI & RAG Systems: Local LLMs, embeddings, vector DBs, chatbot integrations  
+- DevOps & Server Setup: Ubuntu & CentOS configuration, Nginx setup, PHP version management, SSL, deployments  
+- Languages: Arabic (native), English (fluent) 
 
 
 ## 📫 How to Reach Me
