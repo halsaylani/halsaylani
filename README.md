@@ -1,15 +1,13 @@
-# Hi there 👋
-
 <p align="left">
   <a href="#">
     <img height="300"
-         width="800"
+         width="900"
          src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWllbGMzcXp6MzV2bnQ4NHI1YXNjbXdsNzNlM2t0NGY4N2EzcXJ2ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pOEbLRT4SwD35IELiQ/giphy.gif" 
     />
   </a>
 </p>
 
-Welcome to my GitHub profile! 🚀
+Welcome to my GitHub profile! 🤝
 
 ## 🔭 About Me
 I’m a software developer based in Saudi Arabia 🇸🇦, passionate about building full-stack web & mobile applications. I love working with Laravel, Flutter, Swift, and Java Android.
