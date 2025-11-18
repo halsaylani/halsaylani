@@ -1,8 +1,7 @@
 ### Hi there 👋
 
 <a href="https://www.instagram.com/thepiyushmalhotra/">
-  <img height="50" src="[https://user-images.githubusercontent.com/46517096/166974368-9798f39f-1f46-499c-b14e-81f0a3f83a06.png](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWllbGMzcXp6MzV2bnQ4NHI1YXNjbXdsNzNlM2t0NGY4N2EzcXJ2ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pOEbLRT4SwD35IELiQ/giphy.gif
-)"/>
+  <img height="50" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWllbGMzcXp6MzV2bnQ4NHI1YXNjbXdsNzNlM2t0NGY4N2EzcXJ2ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pOEbLRT4SwD35IELiQ/giphy.gif"/>
 </a>
 <!--
 **halsaylani/halsaylani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
