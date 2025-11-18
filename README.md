@@ -49,7 +49,7 @@ I’m a software developer based in Saudi Arabia 🇸🇦, passionate about buil
 
 ## 📫 How to Reach Me
 - Email: halsaylani@email.com  
-- LinkedIn: [linkedin.com/in/halsaylani](https://linkedin.com/in/halsaylani)  
+- LinkedIn: [linkedin.com/in/halsaylani](https://linkedin.com/in/hussainalsaylani)  
 
 ## 💬 Fun Fact
 I’m currently working on a voice-assistant for small businesses (restaurants, salons, car washes) that uses Twilio + local LLMs + Laravel backend.  
