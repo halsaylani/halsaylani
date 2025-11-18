@@ -1,19 +1,12 @@
-### Hi there 👋
+# Hi there 👋
 
-<a>
-  <img height="50" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWllbGMzcXp6MzV2bnQ4NHI1YXNjbXdsNzNlM2t0NGY4N2EzcXJ2ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pOEbLRT4SwD35IELiQ/giphy.gif"/>
-</a>
-<!--
-**halsaylani/halsaylani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left">
+  <a href="#">
+    <img height="60" 
+         alt="Welcome GIF"
+         src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWllbGMzcXp6MzV2bnQ4NHI1YXNjbXdsNzNlM2t0NGY4N2EzcXJ2ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pOEbLRT4SwD35IELiQ/giphy.gif" 
+    />
+  </a>
+</p>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Welcome to my GitHub profile! 🚀  
